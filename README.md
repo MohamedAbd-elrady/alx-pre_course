@@ -69,15 +69,15 @@ Hi Th3re
 - [x] Use a local buffer of `1024` chars in order to call `write` as little as possible.
 - [x] handle `%S`
 - [x] handle `%p`
-- [] handle `+`, space, `#` flags
-- [] handle `l`, `h` flags for `%d`, `%i`, `%u`, `%o`, `%x`, `%X`
-- [] handle width
-- [] handle precision
-- [] handle `0` flag
-- [] handle `-`
+- [ ] handle `+`, space, `#` flags
+- [ ] handle `l`, `h` flags for `%d`, `%i`, `%u`, `%o`, `%x`, `%X`
+- [ ] handle width
+- [ ] handle precision
+- [ ] handle `0` flag
+- [ ] handle `-`
 - [x] handle `%r`
 - [x] handle `%R`
-- [] Make sure all the above options work well together.
+- [ ] Make sure all the above options work well together.
 
 ---
 ### Authors
